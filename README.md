@@ -1,2 +1,2 @@
 # Pacman_Run
-A simple pacman game.
+A simple pacman type game.
